@@ -1,5 +1,8 @@
 # Krypt - Blockchain Transaction Platform
 
+<img width="1783" alt="Screenshot 2025-05-03 at 17 16 10" src="https://github.com/user-attachments/assets/641e39e8-305c-4a19-8304-ea608f645a86" />
+
+
 Krypt is a modern web3 application that allows users to send and track blockchain transactions. Built with React, TypeScript, and Solidity, it provides a seamless interface for interacting with the Ethereum blockchain.
 
 ## Features
