@@ -1,0 +1,52 @@
+🚀 Building a Blockchain Transaction Platform: Krypt
+
+Excited to share my latest project: Krypt, a blockchain transaction platform that demonstrates the power of Web3 technology. As someone with experience in software development, I wanted to explore the blockchain space and build something practical.
+
+📱 What Krypt Does:
+Krypt is a decentralized application that allows users to send and track Ethereum transactions. Users can:
+- Connect their MetaMask wallet
+- Send ETH to any address
+- Add custom messages to their transactions
+- Track their transaction history
+- View real-time transaction status
+- See their transaction details including timestamps and messages
+
+🔍 What I Built:
+- A React + TypeScript frontend with modern UI
+- Smart contracts in Solidity
+- Real-time transaction tracking
+- Wallet integration with MetaMask
+- Comprehensive testing with Foundry
+
+💡 Key Technical Highlights:
+1. Smart contracts with built-in state management
+2. Seamless Web3 integration using Viem
+3. Robust testing infrastructure with Foundry
+4. Modern UI/UX with TailwindCSS
+
+🛠️ Tech Stack:
+- Frontend: React, TypeScript, TailwindCSS
+- Smart Contracts: Solidity
+- Testing: Foundry
+- Blockchain: Ethereum (Sepolia testnet)
+
+🔧 Project Features:
+- Real-time transaction tracking with event emission
+- Secure wallet connection and transaction signing
+- Transaction history with detailed information
+- Balance validation before transactions
+- Responsive design for all devices
+- Comprehensive error handling
+- Gas optimization in smart contracts
+
+💻 Technical Implementation:
+- Used Viem for type-safe blockchain interactions
+- Implemented React Context for state management
+- Created reusable components for transaction cards
+- Added balance validation in smart contracts
+- Implemented proper error handling and user feedback
+- Used Foundry for comprehensive contract testing
+
+This project showcases how modern web technologies can be combined with blockchain to create practical applications. I'm open to discussing the technical implementation and potential improvements!
+
+#Web3 #Blockchain #React #TypeScript #Solidity #Ethereum #SmartContracts #WebDevelopment #Coding #Programming #Tech #Innovation #Developer #SoftwareEngineering #OpenSource #Crypto #DeFi #Web3Development #BlockchainDevelopment #Hiring #TechJobs #SoftwareJobs #RemoteWork #TechRecruitment #JobSearch #TechCareer #SoftwareDevelopment #BlockchainJobs #Web3Jobs #CryptoJobs #TechIndustry #SoftwareEngineer #BlockchainEngineer #Web3Engineer #CryptoEngineer #TechTalent #SoftwareTalent #BlockchainTalent #Web3Talent #CryptoTalent 

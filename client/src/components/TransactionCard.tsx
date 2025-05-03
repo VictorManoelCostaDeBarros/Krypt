@@ -7,7 +7,7 @@ type TransactionCardProps = Transaction & {
   url?: string
 }
 
-export const TransactionCard = ({ id, addressTo, addressFrom, timestamp, message, keyword, amount, url }: TransactionCardProps) => {
+export const TransactionCard = ({ addressTo, addressFrom, timestamp, message, keyword, amount, url }: TransactionCardProps) => {
   const gifUrl = useFetch({ keyword });
 
   return (

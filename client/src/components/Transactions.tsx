@@ -1,6 +1,5 @@
 
 import { useContext } from "react";
-import dummyData from "../utils/dummyData";
 import { TransactionContext } from "../context/TransactionContext";
 import { TransactionCard } from "./TransactionCard";
 
